@@ -11,7 +11,7 @@ label.pack()
 
 def nextPage():
     master.destroy()
-    import toost
+    import main
 
 # continue button
 continue_img = PhotoImage(file="/home/bhargav/My_projects/Image_compressor/images/Rectangle 1.png")
